@@ -134,7 +134,7 @@
         - title: *RunJS
           description: 
           url: http://runjs.cn/code
-          flogo: *
+          flogo: R
         - title: w3school 在线教程
           description: 
           url: http://www.w3school.com.cn/index.html
@@ -717,7 +717,7 @@
         - title: 91美剧网 | 在线美剧天堂,最新美剧资源,高清美剧在线观看
           description: 
           url: https://91mjw.com/
-          flogo: 9
+          flogo: 美
         - title: APP影院-全网最全视频库
           description: 
           url: https://www.appmovie.net/
@@ -916,7 +916,7 @@
     - title: 2345网址导航高级版
       description: 
       url: http://www.2345.com/
-      flogo: 2
+      flogo: 导
     - title: PDF SWF在线转换
       description: 
       url: http://print2flash.com/index.php
@@ -970,14 +970,14 @@
 - name: 工具
   icon: linecons-star
   links: 
-    - title: ✿日语云输入
+    - title: 日语云输入
       description: 
       url: javascript:var%20s=document.createElement('script');s.type='text/javascript';s.charset='utf8';document.body.appendChild(s);s.src='http://ime.baidu.jp/cloudime/olime_jp.js';void(0);
-      flogo: ✿
-    - title: ✿搜狗云输入
+      flogo: 日
+    - title: 搜狗云输入
       description: 
       url: javascript:void(0)
-      flogo: ✿
+      flogo: 搜
     - title: 收录到WO窝
       description: 
       url: javascript:void((function(){if(document.__POCO_COLLECTING){return;}var c=document,b=c.createElement('script'),a=c.getElementById('poco_collect_script'),body=c.body;if(a=='undefined'||a==null){b.setAttribute('id','poco_collect_script');b.setAttribute('charset','UTF-8');b.setAttribute('src','http://wo.poco.cn/tools/tools.php?16');body.insertBefore(b,body.firstChild);}else{window.__POCO_COLLECT_OBJ && window.__POCO_COLLECT_OBJ.start_to_collect();}})());
@@ -1176,7 +1176,7 @@
         - title: 91打飞机
           description: 
           url: http://91dafiji.com/
-          flogo: 9
+          flogo: 打
 
     - name: B
       links: 
