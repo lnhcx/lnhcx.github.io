@@ -20,7 +20,7 @@
 
 
 - name: 电脑
-  icon: fa-folder-o
+  icon: linecons-star
   sub: 
     - name: 软件
       links: 
@@ -28,43 +28,3 @@
           description: 
           url: http://www.appinn.com/
           flogo: 小
-        - title: 异次元软件世界 - 软件改变生活！
-          description: 
-          url: http://www.iplaysoft.com/
-          flogo: 异
-        - title: MXC-无限Creativity，无限创造力-itmxc.com - Powered by Discuz!
-          description: 
-          url: http://www.itmxc.com/
-          flogo: M
-        - title: zd423
-          description: 
-          url: http://www.zdfans.com/
-          flogo: z
-        - title: 软件盒子 - 最好的电脑软件、安卓软件和单机游戏下载基地
-          description: 
-          url: http://www.itopdog.cn/
-          flogo: 软
-        - title: 独木成林 - 专注软件分享与优化
-          description: 
-          url: http://www.guofs.com/
-          flogo: 独
-        - title: 暗组技术论坛-从心出发改变未来 - Powered by Discuz!
-          description: 
-          url: http://forum.cnsec.org/
-          flogo: 暗
-        - title: 程序游戏不再出错！Windows 常用运行库下载 (DirectX、VC++、.Net Framework等) | 异次元软件下载
-          description: 
-          url: http://www.iplaysoft.com/windows-common-runtime.html
-          flogo: 程
-        - title: Yanu - 分享优秀、纯净、绿色、实用的精品软件。
-          description: 
-          url: http://www.ccav1.com/
-          flogo: Y
-        - title: 精品软件 - MXC - 无限Creativity，无限创造力 - itmxc.com - Powered by Discuz!
-          description: 
-          url: http://www.itmxc.com/forum.php?mod=forumdisplay&fid=40
-          flogo: 精
-        - title: 卡饭论坛_最好的软件论坛_讨论_下载_绿化 - 互助分享 - 大气谦和!
-          description: 
-          url: http://bbs.kafan.cn/
-          flogo: 卡
